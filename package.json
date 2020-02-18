@@ -1,6 +1,6 @@
 {
   "name": "{{name}}",
-  "version": "{{projectVersion}}",
+  "version": "{{version}}",
   "description": "{{description}}",
   "private": true,
   "author": "{{author}}",
